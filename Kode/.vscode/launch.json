@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/mailo/OneDrive/Documents/Kode/Opgave1",
-      "program": "c:/Users/mailo/OneDrive/Documents/Kode/Opgave1/build/Debug/outDebug",
+      "cwd": "c:/Users/mailo/OneDrive/Documents/GitHub/Mailos Legeplads/Kode/Opgave2",
+      "program": "c:/Users/mailo/OneDrive/Documents/GitHub/Mailos Legeplads/Kode/Opgave2/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
