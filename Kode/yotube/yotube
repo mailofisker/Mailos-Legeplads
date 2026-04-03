@@ -1,0 +1,12 @@
+#include <iostream> // Altid brug denne
+
+using namespace std; // vigtigt at huske
+
+int main (){  
+ double height = 1.723;
+ int height1 = 1.52;
+ double height2 = 1.985;
+ double give = height + height1 + height2;
+ cout << "højden giver " << give << endl;
+ return 0;
+}
